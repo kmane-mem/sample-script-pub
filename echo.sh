@@ -1,8 +1,8 @@
-echo ' ---> Hello shnew'
+echo ' ---> Hello new'
 echo 'this is public project script'
 lsb_release -a
 docker --version
 docker info
 docker ps
 echo 'EOF'
-#sleep 5m 
+sleep 2m 
