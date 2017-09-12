@@ -4,6 +4,6 @@ lsb_release -a
 docker --version
 docker info
 docker ps
-tedttyy
+sl
 echo 'EOF!'
 
