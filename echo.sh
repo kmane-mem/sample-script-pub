@@ -5,4 +5,4 @@ docker --version
 docker info
 docker ps
 echo 'EOF'
-sleep 2m 
+
