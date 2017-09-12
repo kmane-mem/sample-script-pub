@@ -1,3 +1,4 @@
+#!/bin/bash -e
 echo ' ---> Hello new'
 echo 'this is public project script'
 lsb_release -a
@@ -6,4 +7,3 @@ docker info
 docker ps
 sl
 echo 'EOF!'
-
